@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=V15 Pin=U2-1
+Removed Pin From Net: NetName=G_DA Pin=U2-8
+Added Pin To Net: NetName=V15 Pin=U2-4
+Added Pin To Net: NetName=G_DA Pin=U2-7
+Change Net Color : Old Net Color=White New Net Color=Default
+Change Net Color : Old Net Color=Yellow New Net Color=Default
+Change Net Color : Old Net Color=Lime New Net Color=Default
